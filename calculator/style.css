@@ -1,0 +1,47 @@
+body{
+    width: 300px;
+    height: 290px;
+    border: 2px solid black;
+    margin: 5px auto;
+    box-sizing: border-box;
+    
+}
+
+
+
+.calcbody{
+    background-color: black;
+}
+.result{
+    border: 3px solid grey;
+    height: 50px;
+    width: 286px; 
+    margin-bottom: 5px; 
+}
+
+
+
+
+.clear{
+margin: 1px;
+width: 294px;
+height: 40px;
+
+}
+
+
+.button{
+    width: 68.5px;
+    height: 40px;
+    margin-top: 4px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.button-btm{
+    width: 105.5px;
+    height: 40px;
+    margin-top: 4px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
